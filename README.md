@@ -17,9 +17,9 @@ Email Me 👉 ✉ *ravipratap9045@gmail.com* For Collaboration/Project or Anythi
 </div>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/virat_._tiwari) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/virattiwari) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:virattiwari1801@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ravi_pratap_singh26) 
+[![LinkedIn]((https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-pratap-singh)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ravipratp9045@gmail.com) 
 
 [![Visit My Portfolio](https://img.shields.io/badge/My%20Portfolio-Click%20Here-informational?style=for-the-badge&logo=google-chrome&logoColor=white&color=0E76A8)](https://viirat.github.io/Viratfolio/)
 
